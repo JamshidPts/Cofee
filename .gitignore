@@ -1,0 +1,57 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Vite
+dist/
+.vite/
+.vitepress/cache/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# Log files
+logs/
+*.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# GitHub Pages
+.github/
+gh-pages/
+
+# Output of `npm run build`
+dist/
+
+# Ignore temporary files
+*.swp
+*.swo
+*.tmp
+
+# Optional npm cache directory
+.npm/
+
+# Coverage directory used by tools like istanbul
+coverage/
